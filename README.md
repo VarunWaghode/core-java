@@ -1,2 +1,2 @@
 # core-java
-here are my java programs through out my MCA PG course
+write a java program to implement BODMAS rule 
